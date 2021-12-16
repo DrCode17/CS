@@ -27,9 +27,9 @@ namespace ciklusok
 		    }while(beker != "alma" );
 		    Console.WriteLine("A szo: " + beker);
 
-            //Önálló feladat
+            //Feladat
             i = 0; //nem szükséges
-            int j = 0;
+            int j = 0; //Csak azért kell, hogy tudjuk, nem elsőre fut le a ciklus a kiírással
             beker = "";
             Console.WriteLine("3-as szorzótábla:");
             do{
