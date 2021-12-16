@@ -7,6 +7,6 @@ Tematika:
 2. óra: Változók létrehozása, összefűzése
 3. óra: Do While - Ellenőrzött bekérés
 4. óra: foreach, for, tömbök
-5. óra: 
+5. óra: Gyakorlás
 
 Az egészet készítette: Simon Kevin
