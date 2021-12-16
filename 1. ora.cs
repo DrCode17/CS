@@ -10,6 +10,10 @@
 	ctrl + z					visszavon
 	ctrl + y					visszavonja a visszavonást
 	ctrl + s					ment
+	
+	Ha fut a program Console-ban:
+	ctrl + c					Leállítja a futást
+
 	Ha kijelölsz egy több soros kódrészletet és tabulátornyit akarod mozgatni:
 	tab							jobbra tol egy tabulátornyit
 	shift + tab					balra tol egy tabulátornyit
