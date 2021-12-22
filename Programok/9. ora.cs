@@ -26,7 +26,7 @@ class Program{
             sor[0] = olvas.ReadLine();
         }while(sor[0] != null);
         
-        Console.Write("2020. május informatika emelt érettségi\n1. feladat: Adja meg egy város kódját: ");
+        Console.Write("2020. május informatika emelt érettségi\n1. feladat: Adatok beolvasása\n2. feladat: Adja meg egy város kódját: ");
         string bekertvaroskod = Console.ReadLine();
         string utolsoadat = "";
 
