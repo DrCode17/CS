@@ -14,7 +14,7 @@ class Program{
     public static void Main(){
         //2019 május
         //Olvassa be és tárolja el az Autok.txt fájl tartalmát!
-        StreamReader olvas = new StreamReader(@"forrasok\11. input.txt");
+        StreamReader olvas = new StreamReader(@"forrasok\13. input.txt");
         string[] sor = new string[4];
         List<Autok> adatok = new List<Autok>();
         Autok adat = new Autok();

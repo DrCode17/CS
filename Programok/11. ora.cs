@@ -39,7 +39,7 @@ class Program{
             sor[0] = olvas.ReadLine();
         }while(sor[0] != null);
 
-        //1. feladat:Adja meg, hogy melyik autót vitték el utoljára a parkolóból!
+        //2. feladat:Adja meg, hogy melyik autót vitték el utoljára a parkolóból!
 
         int last = 0;
         
@@ -51,7 +51,7 @@ class Program{
 
         Console.WriteLine(adatok[last].nap + ". napon, rendszáma: " + adatok[last].rsz );
 
-        //2. feladat:Kérjen be egy napot és írja ki a képernyőre a minta szerint, hogy mely autókat vitték ki éshozták vissza az adott napon!
+        //3. feladat:Kérjen be egy napot és írja ki a képernyőre a minta szerint, hogy mely autókat vitték ki és hozták vissza az adott napon!
         Console.Write("Adjon meg egy napot: ");
         int bekert_nap = int.Parse(Console.ReadLine());
         for(int i = 0; i < adatok.Count(); i++){

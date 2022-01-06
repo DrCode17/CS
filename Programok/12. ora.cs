@@ -14,7 +14,7 @@ class Program{
     public static void Main(){
         //2019 május
         //Olvassa be és tárolja el az Autok.txt fájl tartalmát!
-        StreamReader olvas = new StreamReader(@"forrasok\11. input.txt");
+        StreamReader olvas = new StreamReader(@"forrasok\12. input.txt");
         string[] sor = new string[4];
         List<Autok> adatok = new List<Autok>();
         Autok adat = new Autok();
@@ -39,7 +39,7 @@ class Program{
             sor[0] = olvas.ReadLine();
         }while(sor[0] != null);
 //---------------------------Innen új, eddig az előzőből másoltam csak át-------------------------------------
-        //3. feladat: Adja meg, hogy hány autó nem volt bent a hónap végén a parkolóban!
+        //4. feladat: Adja meg, hogy hány autó nem volt bent a hónap végén a parkolóban!
         //Mivel 300-309-ig vannak a rendszámok így elég egy 10 elemű tömb.
         int[] kint = new int[10];
         int sorszam = 0;
@@ -62,7 +62,7 @@ class Program{
 
         Console.WriteLine("Kint levő autók: " + kintlevo_autok );
 
-        /*4. feladat:
+        /*5. feladat:
         Készítsen statisztikát, és írja ki a képernyőre mind a 10 autó esetén az ebben a hónapban
         megtett távolságot kilométerben! A hónap végén még kint lévő autók esetén az utolsó
         rögzített kilométerállással számoljon! A kiírásban az autók sorrendje tetszőleges lehet.

@@ -41,11 +41,14 @@ class Program{
         
         Console.WriteLine("4. feladat:");
         bool volt = false;
+        
         for(int i = 0; i < adatok.Count();i++){
-            if(adatok[i].szeliranyerosseg == "00000")
+            if(adatok[i].szeliranyerosseg == "00000"){
                 Console.WriteLine(adatok[i].telepules + "\t" + adatok[i].ido); volt = true;
+            }
         }
-        if(volt == false)
+        if(volt == false){
             Console.WriteLine("Nem volt szélcsend a mérések idején");
+        }
     }
 }
