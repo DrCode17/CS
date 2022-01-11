@@ -10,6 +10,7 @@ class Program{
         while(!olvas.EndOfStream){
             godrok.Add(int.Parse(olvas.ReadLine()));
         }
+        
         //4. feladat
         StreamWriter ki = new StreamWriter(@"kiirasok/15. output.txt");
         int godor = 0;
@@ -26,6 +27,7 @@ class Program{
         ki.Close();
 
         //5. feladat
+        Console.WriteLine("5. feladat");
         godor = 0;
 
         for(int i = 1; i < godrok.Count()-1; i++){
@@ -33,6 +35,6 @@ class Program{
                 godor++;
             }
         }
-        Console.WriteLine(godor);
+        Console.WriteLine("A gödrök száma: " + godor);
     }
 }

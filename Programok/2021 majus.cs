@@ -5,15 +5,62 @@ class Program{
 
     public static void Main(){
         List<int> godrok = new List<int>();
-        StreamReader olvas = new StreamReader(@"forrasok/16. input.txt");
+        StreamReader olvas = new StreamReader(@"forrasok/14. input.txt");
 
+        Console.WriteLine("1. feladat:");
         while(!olvas.EndOfStream){
             godrok.Add(int.Parse(olvas.ReadLine()));
         }
 
-        //6. feladat
-        Console.Write("6. feladat\nAdjon meg egy távolságot:");
+        Console.WriteLine("A file adatainak száma: " + godrok.Count() + "\n");
+
+        //2. feladat:
+
+        Console.Write("2. feladat\nAdjon meg egy távolságot: ");
         int tavolsag = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Ezen a helyen a felszín " + godrok[tavolsag - 1] + " méter mélyen van\n");
+        
+        //3. feladat
+        Console.WriteLine("3. feladat");
+        double szabad = 0;
+
+        foreach(var item in godrok){
+            if(item == 0){
+                szabad ++;
+            }
+        }
+        double erintetlen = Math.Round(szabad * 100 / godrok.Count(), 2);
+        Console.WriteLine("Az érintetlen területek aránya: " + erintetlen + "%.\n");
+
+        //4. feladat
+        StreamWriter ki = new StreamWriter(@"kiirasok/15. output.txt");
+        int godor = 0;
+        for(int i = 0; i < godrok.Count()-1; i++){
+            if(godrok[i] > 0){
+                if(godrok[i-1] == 0 && godor > 0 ){
+                    ki.WriteLine();
+                }
+                ki.Write(godrok[i] + " ");
+                godor++;
+            }
+        }
+
+        ki.Close();
+
+        //5. feladat
+        Console.WriteLine("5. feladat");
+        godor = 0;
+
+        for(int i = 1; i < godrok.Count()-1; i++){
+            if(godrok[i] > 0 && godrok[i-1] == 0){
+                godor++;
+            }
+        }
+        Console.WriteLine("A gödrök száma: " + godor);
+
+        //6. feladat
+        Console.Write("\n6. feladat");
 
         int kezdopont = 0;
         int vegpont = 0;
@@ -32,7 +79,7 @@ class Program{
             }
         }
 
-        Console.WriteLine("a)\n" + kezdopont + "-" + vegpont );
+        Console.WriteLine("\na)\n" + kezdopont + "-" + vegpont );
 
         bool no = true;
         bool folyamatosan_melyul = true;
