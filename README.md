@@ -16,13 +16,13 @@ Tematika:
 11. óra: Ismétlés(beolvasás, utolsó adat,feltételes keresés) #2019 május érettségi 1. feladat, 2. feladat, 3. feladat
 12. óra: SubString #2019 május érettségi 4. feladat, 5. feladat
 13. óra: Ismétlés(maximum keresés, feltételes keresés, file-ba írás) #2019 május érettségi 6. feladat, 7. feladat 
-14. óra: 
-15. óra: 
-16. óra: 
-17. óra: 
-18. óra: 
-19. óra: 
-20. óra: 
+14. óra: Ismétlés(file beolvasás, feltételes keresés, megszámlálás) #2020 május érettségi 1. feladat, 2.feladat, 3. feladat
+15. óra: Ismétlés(file-ba írás, megszámlálás) #2020 május érettségi 4. feladat, 5.feladat
+16. óra: Eldöntés, ismétlés(maximum keresés, térfogat számolás) #2020 május érettségi 6. feladat
+17. óra: Két dimenziós tömb, random szám
+18. óra: Ismétlés(file beolvasás, struktúra, megszámlálás) #2017 október érettségi 1. feladat, 2. feladat, 3. feladat
+19. óra: Függvény írás, Ismétlés(megszámlálás) #2017 október érettségi 4. feladat, 5. feladat, 6. feladat
+20. óra: Kiválogatás #2017 október érettségi 7. feladat
 
 
 Az egészet készítette: Simon Kevin
