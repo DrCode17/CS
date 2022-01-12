@@ -1,6 +1,17 @@
 C#
 Ez a kurzus emelt érettségire felkészítő anyagokat tartalmaz és a Dr. Code tulajdonát képzi.
 Amennyiben jobban és mélyebben érdekel a téma vagy jobban elsajátítanád, akkor nálunk lehetőséged van akár csoportban, de egyénileg is tanulni a te saját tempódban. 
+Emelt érettségik:
+        http://informatika.fazekas.hu/erettsegi/emelt-szintu-feladatok/
+Minden óra után vannak gyakorló feladatok, amik elkészítése javasolt, illetve további feladatok: 
+        https://www.w3resource.com/csharp-exercises/
+        https://projecteuler.net/archives
+        https://adventofcode.com/
+        https://exercisescsharp.blogspot.com/2013/06/learn-c-sharp-hard-way.html
+        https://exercism.org/tracks/csharp/exercises
+        https://github.com/makokev/DailyCodingChallenge
+        https://edabit.com/challenges
+
 
 Tematika:
 1. óra:  Ismerkedés-Hello World!

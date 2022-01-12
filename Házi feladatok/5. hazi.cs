@@ -8,16 +8,9 @@ class Program{
             Szorgalmi feladatban lehet olyan, amit még nem vettünk, így az egy kis keresgéléssel járhat!
             Jó gyakorlást!
 
-            1. feladat: 
-            2. feladat: 
-            3. feladat: 
-            4. feladat: 
-            5. feladat: 
-
-            -----------------Szorgalmi----------------------
-            1. feladat: 
-            2. feladat: 
-            ------------------------------------------------ 
+            1. feladat: Csináljon egy automatát, 10 féle termékkel (Pizza, hamburger ...).
+                        A terméket, árakat tömbökben tárolja és minden bekérés legyen érthető a felhasználónak.
+            
         */
 
         

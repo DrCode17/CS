@@ -12,7 +12,6 @@ class Program{
             2. feladat: Ha az ACE oldalak 3szöget adnak ki, akkor mekkora a háromszög kerülete?   
             3. feladat: Ha a BCD oldalak egy háromszög oldalai, akkor mekkora a magassága?
             4. feladat: ABCD négyzög hosszabb átlójának mérete.
-            5. feladat: 
 
             -----------------Szorgalmi----------------------
             1. feladat: (D/(A+B))*C-E képlet megoldása
