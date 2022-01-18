@@ -14,11 +14,19 @@ class Program{
                 seged[j] = tmb[i,j];
                 sorsz++;
             }
-            
             Console.WriteLine(string.Join("\t", seged));
         }
 
-        Console.Write("Also határ:");
+        Console.WriteLine("\n\n");
+
+        for(int i = 0; i<5; i++){
+            for(int j = 0; j<5; j++){ 
+                Console.Write(tmb[i,j] + " ");
+            }
+            Console.WriteLine();
+        }
+
+        Console.Write("\nAlso határ:");
         int alsohatar = int.Parse(Console.ReadLine());
         Console.Write("Felső határ:");
         int felsohatar = int.Parse(Console.ReadLine());
@@ -26,5 +34,10 @@ class Program{
         Random random = new Random();
         int randomszam = random.Next(alsohatar, felsohatar);
         Console.WriteLine(randomszam);
+        
+        randomszam = random.Next(101); //0 -> 100 között
+        Console.WriteLine(randomszam);
+
+
     }
 }
