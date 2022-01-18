@@ -1,0 +1,8 @@
+Egy mezőgazdasági termelőnek van 10 000USD-je és 110Ha területe. rendelkezésre állása 1200 embernap. Mi az optimális?
+név     költség     haszon      embernap
+búza:   100USD      50USD       10
+árpa:   200USD      120USD      30
+
+búza: 60
+árpa: 20
+össz nyereség 5400USD

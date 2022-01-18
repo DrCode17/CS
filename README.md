@@ -1,8 +1,11 @@
-C#
+C# programozás emelt érettségire
+
 Ez a kurzus emelt érettségire felkészítő anyagokat tartalmaz és a Dr. Code tulajdonát képzi.
-Amennyiben jobban és mélyebben érdekel a téma vagy jobban elsajátítanád, akkor nálunk lehetőséged van akár csoportban, de egyénileg is tanulni a te saját tempódban. 
+Amennyiben jobban és mélyebben érdekel a téma vagy csak mélyebben elsajátítanád, akkor nálunk lehetőséged van akár csoportban, de egyénileg is tanulni a te saját tempódban!
+
 Emelt érettségik:
         http://informatika.fazekas.hu/erettsegi/emelt-szintu-feladatok/
+
 Minden óra után vannak gyakorló feladatok, amik elkészítése javasolt, illetve további feladatok: 
         https://www.w3resource.com/csharp-exercises/
         https://projecteuler.net/archives
@@ -34,6 +37,8 @@ Tematika:
 18. óra: Ismétlés(file beolvasás, struktúra, megszámlálás) #2017 október érettségi 1. feladat, 2. feladat, 3. feladat
 19. óra: Függvény írás, Ismétlés(megszámlálás) #2017 október érettségi 4. feladat, 5. feladat, 6. feladat
 20. óra: Kiválogatás #2017 október érettségi 7. feladat
+21. óra: Bemutató óra felkészülés
+22. óra: Bemutató óra
 
 
 Az egészet készítette: Simon Kevin
