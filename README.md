@@ -1,7 +1,8 @@
 C# programozás emelt érettségire
 
-Ez a kurzus emelt érettségire felkészítő anyagokat tartalmaz és a Dr. Code tulajdonát képzi.
-Amennyiben jobban és mélyebben érdekel a téma vagy csak mélyebben elsajátítanád, akkor nálunk lehetőséged van akár csoportban, de egyénileg is tanulni a te saját tempódban!
+Ez a kurzus emelt érettségire felkészítő anyagokat tartalmaz és a Dr. Code tulajdonát képzi, amennyiben bármi észrevétele van jelezze felénk!.
+
+Ha jobban és mélyebben érdekel a téma vagy csak mélyebben elsajátítanád a prograozás alapjait, akkor nálunk lehetőséged van akár csoportban, de egyénileg is tanulni a te saját tempódban!
 
 Emelt érettségik:
         http://informatika.fazekas.hu/erettsegi/emelt-szintu-feladatok/
@@ -41,4 +42,4 @@ Tematika:
 22. óra: Bemutató óra
 
 
-Az egészet készítette: Simon Kevin
+Az egészet készítette: Simon Kevin(kevin.simon@digi-ok.hu)
