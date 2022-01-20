@@ -9,7 +9,6 @@ class Program{
 
         for(int i = 0; i<5; i++){
             for(int j = 0; j<5; j++){
-                //tmb[i,j] = (i+1) * (j+1); 
                 tmb[i,j] = sorsz * 5;
                 seged[j] = tmb[i,j];
                 sorsz++;
@@ -38,6 +37,17 @@ class Program{
         randomszam = random.Next(101); //0 -> 100 között
         Console.WriteLine(randomszam);
 
+        for(int i = 0; i<5; i++){
+            for(int j = 0; j<5; j++){ 
+                tmb[i,j] = random.Next(101); //Ha a 101-et kivesszük, akkor kb bármekkora lehet a szám.
+            }
+        }
 
+        for(int i = 0; i<5; i++){
+            for(int j = 0; j<5; j++){ 
+                Console.Write(tmb[i,j] + " ");
+            }
+            Console.WriteLine();
+        }        
     }
 }
