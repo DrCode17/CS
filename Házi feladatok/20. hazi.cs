@@ -8,16 +8,10 @@ class Program{
             Szorgalmi feladatban lehet olyan, amit még nem vettünk, így az egy kis keresgéléssel járhat!
             Jó gyakorlást!
 
-            1. feladat: 
-            2. feladat: 
-            3. feladat: 
-            4. feladat: 
-            5. feladat: 
+            oktatas.hu-n fent vannak a korábbi érettségi feladatok!
+            Sok sikert kívánunk a gyakorláshoz és sikeres érettségit!
 
-            -----------------Szorgalmi----------------------
-            1. feladat: 
-            2. feladat: 
-            ------------------------------------------------ 
+            Dr. Code oktatói csapata!
         */
 
         

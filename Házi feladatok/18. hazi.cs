@@ -8,15 +8,11 @@ class Program{
             Szorgalmi feladatban lehet olyan, amit még nem vettünk, így az egy kis keresgéléssel járhat!
             Jó gyakorlást!
 
-            1. feladat: 
-            2. feladat: 
-            3. feladat: 
-            4. feladat: 
-            5. feladat: 
+            1. feladat: 2020 május feladatlap elkezdése, amíg haladsz.
+            2. feladat: 2020 október feladatlap 1-5 ig
 
             -----------------Szorgalmi----------------------
-            1. feladat: 
-            2. feladat: 
+            1. feladat: 2018 május feladatlap végig
             ------------------------------------------------ 
         */
 

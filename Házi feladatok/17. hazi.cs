@@ -8,15 +8,13 @@ class Program{
             Szorgalmi feladatban lehet olyan, amit még nem vettünk, így az egy kis keresgéléssel járhat!
             Jó gyakorlást!
 
-            1. feladat: 
-            2. feladat: 
-            3. feladat: 
-            4. feladat: 
-            5. feladat: 
+            1. feladat: Generálj 100 véletlen számot 1-100 között és add vissza a legkisebbet, legnagyobbat.
+            2. feladat: Generálj 20 véletlen számot 1-100 között és add vissza őket növekvő sorrendben.
+            3. feladat: Generálj 50 véletlen számot 150 000-300 000 között és add meg az átlagukat.
 
             -----------------Szorgalmi----------------------
-            1. feladat: 
-            2. feladat: 
+            1. feladat: Generálj 10-25-50-100-1000-2000 dobást dobókockával majd jelenítsd meg hogyan változnak az arányok a
+                        "kidobott" számok között. 
             ------------------------------------------------ 
         */
 
