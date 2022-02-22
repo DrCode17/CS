@@ -41,6 +41,10 @@ Tematika:
 21. óra: Bemutató óra felkészülés
 22. óra: Bemutató óra
 
+Amelyik érettségikbe legalább betekintünk:
+        2019 május, 2020 május, 2017 oktőber, 2021 május, 2018 május, 2020 október, 
+        2017 május, 2018 október, 2019 október, 2021 október
+
 Amiket könyveket mellé ajánlok:
 Magyar Gyula    Emelt szintű informatika érettségi programozás C++ és C# nyelven
 Illés Zoltán    Programozás C# nyelven

@@ -10,13 +10,9 @@ class Program{
 
             1. feladat: Kérje be 10 számot majd 1-et és add vissza, hogy benne van-e a tömbben.
             2. feladat: Kérje be 10 szót majd 1-et és add vissza, hogy benne van-e a tömbben.
-            3. feladat: 
-            4. feladat: 
-            5. feladat: 
 
             -----------------Szorgalmi----------------------
-            1. feladat: 
-            2. feladat: 
+            1. feladat: 2017 május érettségi
             ------------------------------------------------ 
         */
 

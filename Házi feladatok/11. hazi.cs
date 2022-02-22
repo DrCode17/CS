@@ -8,7 +8,7 @@ class Program{
             Szorgalmi feladatban lehet olyan, amit még nem vettünk, így az egy kis keresgéléssel járhat!
             Jó gyakorlást!
 
-            1. feladat: 
+            1. feladat: 2018 október
             2. feladat: 
 
             -----------------Szorgalmi----------------------

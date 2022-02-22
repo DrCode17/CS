@@ -8,15 +8,11 @@ class Program{
             Szorgalmi feladatban lehet olyan, amit még nem vettünk, így az egy kis keresgéléssel járhat!
             Jó gyakorlást!
 
-            1. feladat: 
-            2. feladat: 
-            3. feladat: 
-            4. feladat: 
-            5. feladat: 
+            1. feladat: 2016 október
+            2. feladat: 2019 október
 
             -----------------Szorgalmi----------------------
-            1. feladat: 
-            2. feladat: 
+            1. feladat: 2021 október
             ------------------------------------------------ 
         */
 
