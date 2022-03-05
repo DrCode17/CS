@@ -8,15 +8,12 @@ class Program{
             Szorgalmi feladatban lehet olyan, amit még nem vettünk, így az egy kis keresgéléssel járhat!
             Jó gyakorlást!
 
-            1. feladat: 
-            2. feladat: 
-            3. feladat: 
-            4. feladat: 
-            5. feladat: 
+            1. feladat: Kérjen be 10 számot, majd keresse meg a legkisebbet, legnagyobbat. 
+                        Számolja ki az átlagukat, majd írja ki az eredeti számokat egy .txt-be a számolt adatokat a console-ra.
 
             -----------------Szorgalmi----------------------
-            1. feladat: 
-            2. feladat: 
+            1. feladat: Generáljon le 1000 számot, majd keresse meg a legkisebbet, a legnagyobbat. Számolja ki az
+                        átlagukat és ha az átlag szerepel a tömbben, akkor azt írja ki, ha nem, akkor a hozzá legközelebbi adatot.
             ------------------------------------------------ 
         */
 

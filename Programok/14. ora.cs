@@ -35,3 +35,4 @@ class Program{
         Console.WriteLine("Az érintetlen területek aránya: " + erintetlen + "%.\n");
     }
 }
+
