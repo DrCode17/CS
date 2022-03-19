@@ -13,13 +13,13 @@ class Program{
             3. feladat: Ha a BCD oldalak egy háromszög oldalai, akkor mekkora a magassága?
             4. feladat: ABCD négyzög hosszabb átlójának mérete.
 
+
             -----------------Szorgalmi----------------------
             1. feladat: (D/(A+B))*C-E képlet megoldása
             2. feladat: Másodfokú egyenlet megoldóképletét csináld meg és számolja ki a program.
             ------------------------------------------------ 
         */
 
-        int A=2,B=3,C=5,D=7,E=9;
 
     }
 }
